@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation — Parthgogia"
+       src="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg"
+       style="max-width:100%; height:auto; display:block; margin:0 auto;" />
 </picture>
+
+
 
