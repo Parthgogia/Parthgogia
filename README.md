@@ -50,6 +50,10 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
+
 </div>
 
 ### Databases & Tools
@@ -72,10 +76,12 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthgogia&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<!--
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthgogia&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Parthgogia&theme=radical&no-bg=true" alt="GitHub Trophies" />
+</div-->
+
 
 ## 🔥 Contribution Graph
 <div align="center">
@@ -115,7 +121,6 @@ current_focus = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-gogia/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthgogia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthgogia19@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Parthgogia)
 
