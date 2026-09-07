@@ -38,28 +38,32 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 
 ## 💻 Tech Stack
 
-### Languages & Core Technologies
+### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css" />
 </div>
 
-### Frameworks & Libraries
+### Frameworks & Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,spring,fastapi,prisma,supabase,docker" />
 </div>
 
-### Databases & Tools
+### AI / ML
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="42" height="42"/>
 </div>
+
+### Databases, Cloud & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,azure,git,github,vscode" />
+</div>
+
 
 ## 📊 GitHub Stats
 <!--
