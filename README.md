@@ -64,21 +64,22 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,azure,git,github,vscode" />
 </div>
 
-
+<!--
 ## 📊 GitHub Stats
+-->
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthgogia&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthgogia&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthgogia&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <!--
 ## 🏆 GitHub Trophies
@@ -88,9 +89,11 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 
 
 ## 🔥 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthgogia&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       alt="3d contribution graph"
+       width="100%"/>
+</p>
 <!--
 ## 🌟 Featured Projects
 --
